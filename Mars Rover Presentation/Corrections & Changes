@@ -3,3 +3,9 @@ Task I - Weather Data Results was changed to Task I - Weather Data Collected.
 The min Max Mean bars were removed from the Weather Data Collected slide.
 Since our group didn't do the DHT-11 measurement extr credit the temperature section on the Weather Data Collected slide was changed to talk about temperature compensation and the group believes it does for the "calibrated" altitude.
 The altitude and Pressure sections on the Weather Data Collected slide were worded better.
+The Path/Time to Complete slide was changed by adding a note to explain the laps and lap times associated with the rover path completion time.
+The Path/Time to Complete slide was also changed because the picture of the autonomous mission was changed from showing 4 runs to a single isolated run.
+All graphs were changed to reflect the isolated run, and some of the graph colors were changed.
+A slide was added to explain the data collected for task II. The new slide Task II - Autonomous Navigation Data collected.
+The new slide explains changing the waypoint radius, how the waypoints were placed for the mission, and talks about the NTUN.WPDist graph and NTUN.XTrack graph.
+An end slide was added so the presentation can seem more professional.
