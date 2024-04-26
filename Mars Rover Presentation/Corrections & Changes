@@ -1,1 +1,5 @@
-
+Barometer graphs and IMU/GPS graphs were separated to two slides to be more readable.
+Task I - Weather Data Results was changed to Task I - Weather Data Collected.
+The min Max Mean bars were removed from the Weather Data Collected slide.
+Since our group didn't do the DHT-11 measurement extr credit the temperature section on the Weather Data Collected slide was changed to talk about temperature compensation and the group believes it does for the "calibrated" altitude.
+The altitude and Pressure sections on the Weather Data Collected slide were worded better.
