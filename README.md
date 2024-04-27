@@ -14,7 +14,7 @@ _General:_
     -   Laptop (To use Mission Planner outside)
     -   DHT-11 and SD module (For extra credit)
 
-  # Mission Data Summary
+  # Mission Data Summary Report
   ## Waypoint Mission
 ![Screenshot of waypoint mission](https://imgur.com/DZgtWsi.png)
 
