@@ -13,4 +13,12 @@ _General:_
     -   monitor and keyboard (for Navio2)
     -   Laptop (To use Mission Planner outside)
     -   DHT-11 and SD module (For extra credit)
-  
+
+  # Mission Data
+  ## Waypoint Mission
+
+  ## Barometer Sensor Data
+
+  ## GPS Altitude and IMU sensor Data
+
+  ## NTUN Data
