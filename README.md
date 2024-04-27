@@ -14,7 +14,7 @@ _General:_
     -   Laptop (To use Mission Planner outside)
     -   DHT-11 and SD module (For extra credit)
 
-  # Mission Data
+  # Mission Data Summary
   ## Waypoint Mission
 
   ## PID Tuning
