@@ -1,4 +1,4 @@
 # Mars-Rover
-For this project, Mars Rover, we were tasked with assembling, setting up, and testing the SIUE Mars Rover Kit. 
+For this project, Mars Rover, we were tasked with assembling, setting up, and testing the SIUE Mars Rover Kit. First, we had to follow the Hardware Build instructions provided to us to build the rover. We didn't have to glue or solder anything together because it was already done for us, we just had to put on the wheels, put everything in the rover, and connect everything to the Navio2. Then we had to follow the Avionics Build instructions provided to us to setup the Navio2, connect the telemetry radios, connect the flight controller/reciever, learn/setup mission planner, learn/setup bin files, and learn/setup UAV Log Viewer. Lastly, We had to take our rovers outside for tuning and to run test. There were two task given to us,Task II - Autonomous navigation through waypoint
 
 This Project was for MRE 320 with Dr. Zhang, Spring 2024, at Southern Illinois University - Edwardsville. This was done by group 3 consisting of Aurora Clark, Malina Brown, and Ethan Zumbahlen.
