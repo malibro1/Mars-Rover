@@ -16,13 +16,25 @@ _General:_
 
   # Mission Data Summary
   ## Waypoint Mission
-![Screenshot of waypoint mission]()
+![Screenshot of waypoint mission](https://imgur.com/DZgtWsi.png)
+
+  ## Completeion Time
+  ![Screenshot of waypoint mission](https://imgur.com/PqRJfxk.png)
+
   ## PID Tuning
+![Screenshot of PID Tuning](https://imgur.com/02U2jmq.png)
 
   ## Parameter List
+![Screenshot of paramter list](https://imgur.com/JAj0c3R.png)
+![Screenshot of waypoint mission](https://imgur.com/aNxvkcU.png)
+
 
   ## Barometer Sensor Data
+![Screenshot of barometer sensor data](https://imgur.com/oyFeiky.png)
 
   ## GPS Altitude and IMU sensor Data
+![Screenshot of the GPS Altitude](https://imgur.com/27BBwjF.png)
+![Screenshot of the IMU Sensor Data](https://imgur.com/xSBzH0M.png)
 
   ## NTUN Data
+![Screenshot of NTUN Data](https://imgur.com/8y0SQTJ.png)
