@@ -10,7 +10,7 @@ There are two files and four folder. The files are the README.md and LICENSE and
 _General:_
 
     -   SIUE Mars Rover Kit (Rover hardware, flight controller, Navio2, tools, power cable, battery)
-    -	monitor and keyboard (for Navio2)
+    -   monitor and keyboard (for Navio2)
     -   Laptop (To use Mission Planner outside)
-    -	DHT-11 and SD module (For extra credit)
+    -   DHT-11 and SD module (For extra credit)
   
