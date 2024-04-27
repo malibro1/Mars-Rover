@@ -4,4 +4,4 @@ For this project, Mars Rover, we were tasked with assembling, setting up, and te
 This Project was for MRE 320 with Dr. Zhang, Spring 2024, at Southern Illinois University - Edwardsville. This was done by group 3 consisting of Aurora Clark, Malina Brown, and Ethan Zumbahlen.
 
 # What's in the Repository
-There are two files and four folder. The files are the README.md and LICENSE and the folders are
+There are two files and four folder. The files are the README.md and LICENSE and the folders are Building setup, Mars Rover Presentation, Task I - Weather Data Measurement and Task - Autonomous Navigation through Waypoint. In each of the folders you will find their respective screenshots, graphs, corrections & changes, powerpoint, and file. Each of those also being 
