@@ -16,7 +16,7 @@ _General:_
 
   # Mission Data Summary
   ## Waypoint Mission
-
+![Screenshot of waypoint mission]()
   ## PID Tuning
 
   ## Parameter List
